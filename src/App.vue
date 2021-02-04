@@ -1,8 +1,6 @@
 <template>
   <div>
-    <!-- ... -->
-    <p>获取vuex里面的数据{{count}}</p>
-    <!-- ... -->
+    <router-view></router-view>
   </div>
 </template>
 <script>
